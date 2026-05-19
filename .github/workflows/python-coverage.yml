@@ -10,6 +10,8 @@ permissions:
 
 jobs:
   python-coverage:
+    name: python coverage
+
     runs-on: ubuntu-latest
 
     steps:
